@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The **Maternal and Child Health Monitoring in Low- and Middle-Income Countries (LMICs)** research project aims to leverage machine learning techniques applied to satellite imagery and other geotagged data sources to monitor key indicators of maternal and child health (MCH) status in LMICs. The project seeks to demonstrate that village- and neighborhood-level prevalence of various MCH indicators, such as child undernutrition, anemia, maternal and child mortality, and childhood illness episodes, can be accurately estimated using machine learning algorithms.
+The **Maternal and Child Health Monitoring in Low- and Middle-Income Countries (LMICs)** research project aims to leverage machine learning techniques applied to satellite imagery and other geotagged data sources to monitor key indicators of maternal and child health (MCH) status in LMICs. The project seeks to demonstrate that village- and neighborhood-level prevalence of various MCH indicators can be accurately estimated using machine learning algorithms.
 
 ## Project Objective
 
@@ -11,7 +11,7 @@ The primary objective of this research project is to develop robust machine lear
 ## Features
 
 - **Machine Learning Models**: Utilizes various machine learning algorithms to analyze satellite imagery and geotagged data.
-- **MCH Indicator Estimation**: Estimates key MCH indicators, including child undernutrition, anemia, maternal and child mortality, and childhood illness episodes.
+- **MCH Indicator Estimation**: Estimates key MCH indicators
 - **Granular Monitoring**: Provides village- and neighborhood-level estimates for targeted intervention and policy planning.
 - **Data-driven Approach**: Relies on publicly available data sources to ensure accessibility and scalability.
 
@@ -32,15 +32,5 @@ The primary objective of this research project is to develop robust machine lear
 - **Model Training**: Explore and execute the provided Jupyter notebooks for training machine learning models.
 - **Data Preprocessing**: Utilize notebooks for preprocessing training labels and selecting features.
 - **Customization**: Customize models and preprocessing steps based on specific research requirements and datasets.
-
-## Contributors
-
-- [Your Name or Team Name]
-
-## License
-
-This research project is licensed under the [MIT License](LICENSE).
-
----
 
 Feel free to contribute to this project, advancing the field of maternal and child health monitoring in LMICs through innovative machine learning techniques applied to satellite imagery and geotagged data.
